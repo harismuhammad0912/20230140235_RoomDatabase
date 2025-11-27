@@ -19,4 +19,7 @@
     <string name="update">Edit</string>
     <string name="attention">Perhatian</string>
     <string name="tanya">Apakah anda yakin menghapus ini ?</string>
+    <string name="judul_home">Data Siswa</string>
+    <string name="judul_entry">Tambah Siswa</string>
+    <string name="Tambah">Tambah Siswa</string>
 </resources>
